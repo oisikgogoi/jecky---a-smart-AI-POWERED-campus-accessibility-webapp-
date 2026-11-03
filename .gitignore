@@ -1,0 +1,20 @@
+# Dependencies and build output
+node_modules/
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Local runtime data and uploads
+/backend/data.json
+/backend/uploads/
+/package-lock.json
+*.log
+npm-debug.log*
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store

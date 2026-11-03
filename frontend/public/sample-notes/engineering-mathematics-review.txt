@@ -1,0 +1,20 @@
+Sample study note
+Engineering Mathematics I: Limits and derivatives
+
+These illustrative notes are provided as sample content only.
+
+Limits
+- A limit describes the value a function approaches as its input approaches a point.
+- For a polynomial, direct substitution can be used to evaluate a finite limit.
+- When direct substitution gives an indeterminate form, simplify the expression
+  before evaluating it.
+
+Derivatives
+- The derivative represents the instantaneous rate of change of a function.
+- Power rule: d(x^n)/dx = n*x^(n-1).
+- Sum rule: differentiate each term separately.
+- Product and quotient rules apply to products and ratios of differentiable
+  functions.
+
+Use your course text and instructor guidance for complete definitions and
+worked examples.

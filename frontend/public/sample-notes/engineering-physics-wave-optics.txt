@@ -1,0 +1,20 @@
+Sample study note
+Engineering Physics: Introduction to wave optics
+
+These illustrative notes are provided as sample content only.
+
+Interference
+- Interference results when waves overlap and combine.
+- Constructive interference occurs when waves reinforce one another.
+- Destructive interference occurs when waves reduce one another's amplitude.
+- In Young's double-slit experiment, the fringe pattern depends on wavelength,
+  slit separation, and distance to the screen.
+
+Diffraction
+- Diffraction describes the spreading of waves around an obstacle or through
+  an aperture.
+- The effect is most noticeable when the aperture size is comparable to the
+  wavelength.
+
+This short sample is not a substitute for lecture notes or a complete course
+reference.

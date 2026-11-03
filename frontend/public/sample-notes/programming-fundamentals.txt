@@ -1,0 +1,21 @@
+Sample study note
+Programming Fundamentals: Quick reference
+
+These illustrative notes are provided as sample content only.
+
+Core ideas
+- A variable stores a value that a program can use or update.
+- A conditional selects which instructions run based on a true-or-false test.
+- A loop repeats a block of instructions while a condition is met or for each
+  item in a collection.
+- A function groups reusable instructions and may accept inputs and return a
+  result.
+
+Problem-solving checklist
+1. Identify the inputs and expected output.
+2. Break the task into smaller steps.
+3. Write and test one step at a time.
+4. Check boundary cases and invalid input.
+
+Syntax varies by programming language. Use the examples and conventions taught
+in your course.
